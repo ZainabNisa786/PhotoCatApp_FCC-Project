@@ -1,0 +1,51 @@
+h1,h2,h3{
+    text-align: center;
+    color: rgb(38, 0, 255);
+}
+p,figcaption{
+    text-align: center;
+}
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container1{
+    text-align: center;
+}
+ul{
+    text-align: left;
+    position:relative;
+    width: 50%;
+    left: 43%;
+    }
+.container2{
+text-align: center;
+}
+ol{
+text-align: left;
+position: relative;
+width: 50%;
+left: 43%;
+}
+form{
+    text-align: center;
+}
+fieldset{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
